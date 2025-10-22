@@ -98,7 +98,7 @@ Transparency: public budget dashboards, open incident logs (non-identifying), ag
 - Social DAO → [Minds of the Rejected on Giveth](https://giveth.io/project/minds-of-the-rejected)  
 - X / Twitter → [@nuvaar](https://x.com)  
 - Discord → *(in setup)*  
-- Email → contact@nuvaar.org  
+- Email → nuvaar@protonmail.com  
 
 ---
 
